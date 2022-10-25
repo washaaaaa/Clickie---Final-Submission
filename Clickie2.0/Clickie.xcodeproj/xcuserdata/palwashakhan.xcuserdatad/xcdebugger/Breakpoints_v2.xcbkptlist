@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "19C760D1-7629-419E-9928-658A46C29BD0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11E821A4-F7F4-4E3D-8BAE-192B1C63760D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clickie/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "11E821A4-F7F4-4E3D-8BAE-192B1C63760D - 372a5f6b3609850f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clickie.ViewController.BLE_Service_UUID.getter : __C.CBUUID"
+                  moduleName = "Clickie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palwashakhan/Desktop/Clickie/Clickie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "11E821A4-F7F4-4E3D-8BAE-192B1C63760D - 933bbe7b6a2ebc18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clickie.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Clickie.ViewController"
+                  moduleName = "Clickie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palwashakhan/Desktop/Clickie/Clickie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "761">
+               </Location>
+               <Location
+                  uuid = "11E821A4-F7F4-4E3D-8BAE-192B1C63760D - 32ed4c4fc6677156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clickie.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Clickie.ViewController&gt;"
+                  moduleName = "Clickie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palwashakhan/Desktop/Clickie/Clickie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "705">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
